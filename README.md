@@ -6,5 +6,6 @@ This project is part of non-commercial exploratory testing conducted for educati
 - `README.md` — project overview (this file)  
 - `bug-reports/` — markdown files with detailed step-by-step reports on defects discovered. 
 - `reports/` — general summaries and conclusions regarding usability, design, and performance.
+- `media/` - this folder (and its subfolder`screenshots/`) contains visual and multimedia assets used in the bug reports and documentation.
 - `user-cases/` — markdown files with documented user scenarios (test cases) reflecting expected behavior.
 - `LICENSE` — Creative Commons Attribution-NonCommercial International Public License

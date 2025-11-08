@@ -27,5 +27,5 @@
 
 ## Attachments
 **Screenshots:**
-![Test_benjerry-find_a_values1.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FTest_benjerry-find_a_values1.png)
-![Test_benjerry-find_a_values2.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FTest_benjerry-find_a_values2.png)
+![Test_benjerry-find_a_values1.png](../media/screenshots/Test_benjerry-find_a_values1.png)
+![Test_benjerry-find_a_values2.png](../media/screenshots/Test_benjerry-find_a_values2.png)

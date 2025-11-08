@@ -32,7 +32,7 @@ The line **"Sundaes on the Pier"** doesn't clickable.
 
 ## Attachments
 - **Screenshots:**
-![Test_benjerry-sitemap_issue1.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FTest_benjerry-sitemap_issue1.png)
+![Test_benjerry-sitemap_issue1.png](../media/screenshots/Test_benjerry-sitemap_issue1.png)
 
 
 - **Screencast:**  

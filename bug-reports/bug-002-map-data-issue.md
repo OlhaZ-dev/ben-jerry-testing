@@ -36,8 +36,8 @@ The user is able to see all Ben&Jerry addresses in the Sweden
 
 ## Attachments
 - **Screenshots:**
-![Test_benjerry-where_to buy1.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FTest_benjerry-where_to%20buy1.png)
-![Test_benjerry-where_to_buy2.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FTest_benjerry-where_to_buy2.png)
+![Test_benjerry-where_to buy1.png](../media/screenshots/Test_benjerry-where_to buy1.png)
+![Test_benjerry-where_to_buy2.png](../media/screenshots/Test_benjerry-where_to_buy2.png)
 
 
 - **Screencast:**  
