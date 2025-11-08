@@ -32,8 +32,8 @@ On the **Sitemap**, the **“Shop Peaces”** subtitle is missing from the **Ice
 
 ## Attachments
 - **Screenshots:** 
-![Test_benjerry-navigation_flavours.png](../../media/screenshots/Test_benjerry-navigation_flavours.png)
-![Test_benjerry-sitemap_flavours.png](../../media/screenshots/Test_benjerry-sitemap_flavours.png)
+![Test_benjerry-navigation_flavours.png](../media/screenshots/Test_benjerry-navigation_flavours.png)
+![Test_benjerry-sitemap_flavours.png](../media/screenshots/Test_benjerry-sitemap_flavours.png)
 
 ---
 ##  Notes
